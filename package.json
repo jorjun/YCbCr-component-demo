@@ -1,0 +1,16 @@
+{
+  "name": "luna_chroma_sub_sampling",
+  "version": "1.0.0",
+  "description": "YCrCb Component Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Benjamin Toofer",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^4.4.3"
+  }
+}
